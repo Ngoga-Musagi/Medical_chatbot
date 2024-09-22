@@ -1,0 +1,17 @@
+Good morning Geoffrey,
+
+I hope you're doing well. I would appreciate your help in storing all these folders under the directory linked below:
+
+- fused_data_Averaging
+- fused_data_laplacian
+- fused_data_Laplacian_Gram
+- fused_data_Laplacian_L2
+- fused_data_Laplacian_L3
+- fused_data_Laplacian_L5
+- fused_data_Laplacian_L6
+- fused_data_Laplacian_L7
+
+
+Directoru: https://drive.google.com/drive/u/0/folders/1uMhEGUtmRedMzEE0H3AG8q861JaD3CEW
+
+Thank you
